@@ -1,5 +1,5 @@
 <template>
-  <div class="detail_article">
+  <div class="detail_article" :class="{dark: isTheme === 'light' ? false : true}">
     <div class="header">
       <div class="deskripsi">
         {{ article.description }}

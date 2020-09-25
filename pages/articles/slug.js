@@ -10,6 +10,16 @@ export default {
       })
     }
   },
+  data () {
+    return {
+      isTheme: ''
+    }
+  },
+  created () {
+    this.$nuxt.$on('theme', (data) => {
+      this.isTheme = data
+    })
+  },
   methods: {
     formatDate (date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }

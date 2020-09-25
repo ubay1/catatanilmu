@@ -93,8 +93,8 @@ svg.feather.feather-moon {
 }
 
 svg.feather.feather-sun {
-  border-color: #00de93 !important;
-  color: #00de93 !important;
-  box-shadow: 2px 2px 0px #00de93;
+  border-color: #4ca495 !important;
+  color: #4ca495 !important;
+  box-shadow: 2px 2px 0px #4ca495;
 }
 </style>

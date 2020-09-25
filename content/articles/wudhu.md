@@ -34,3 +34,18 @@ Dari hadits ini dan hadits lainnya, kita dapat meringkas tata cara wudhu Nabi sh
 6. Membasuh tangan (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) hingga siku dan sambil menyela-nyela jari-jemari.
 7. Membasuh kepala 1 kali dan termasuk di dalamnya membasuh telinga. **Rasulullah shallallahu ‘alaihi wa sallam bersabda**, “Kedua telinga termasuk bagian dari kepala” (HR Ibnu Majah, disahihkan oleh Al Albani). Tatacara membasuh kepala ini adalah sebagai berikut, kedua telapak tangan dibasahi dengan air. Kemudian kepala bagian depan dibasahi lalu menarik tangan hingga kepala bagian belakang, kemudian menarik tangan kembali hingga kepala bagian depan. Setelah itu langsung dilanjutkan dengan memasukkan jari telunjuk ke lubang telinga, sedangkan ibu jari (jempol) menggosok telinga bagian luar.
 8. Membasuh kaki (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) sambil membersihkan sela-sela jemari kaki.
+<br><br>
+
+# Syarat-Syarat Wudhu 
+
+Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan syarat wudhu ada tujuh, yaitu
+
+1. Islam,
+2. Berakal,
+3. Tamyiz = Tolak ukur tamyiz adalah sebagaimana yang dikatakan **Nabi shallallahu ‘alaihi was sallam** adalah berumur 7 tahun dalam hadits yang diriwayatkan oleh Abu Dawud no. 495 dan dinyatakan hasan shohih oleh Al Albani rohimahullah dalam takhrij beliau untuk Sunan Abu Dawud,
+4. Berniat, (letak niat ini ketika hendak akan melakukan ibadah tersebut.)
+5. Air yang digunakan adalah air yang bersih dan bukan air yang diperoleh dengan cara yang haram,
+6. Telah beristinja (Membersihkan sesuatu yang keluar dari dua jalur kemaluan dengan air)
+ & istijmar (Membersihkan sesuatu yang keluar dari dua jalur kemaluan dengan tiga buah batu atau dengan selainnya) lebih dulu (jika sebelumnya memiliki keharusan untuk istinja’ dan istijmar dari hadats),
+7. Tidak adanya sesuatu hal yang mencegah air sampai ke kulit.
+
