@@ -155,3 +155,323 @@
     
     }
 }
+
+@media (min-width: 600px) and (max-width: 767px) {
+    .detail_article {
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 100px auto auto;
+        // grid-gap: 20px;
+        
+        .header {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-left: 10%;
+            margin-right: 10%;
+            .deskripsi {
+                color: #00de93;
+                font-size: 2em;
+                font-weight: bold;
+            }
+    
+            .diupdate {
+                color: #807d7d;
+                font-size: smaller;
+            }
+        }
+    
+        .nuxt-content {
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 10%;
+            margin-right: 10%;
+    
+            p:nth-of-type(1) {
+                text-indent: 20px;
+            }
+    
+            h1 {
+                color: #00de93;
+                font-weight: 900;
+                font-size: 21px;
+            }
+
+            .teks-arab {
+                font-family: cursive;
+                font-size: 25px;
+            }
+
+            .teks-latin {
+                font-size: medium;
+                font-style: italic;
+            }
+
+            ol {
+                list-style: unset;
+            }
+    
+            strong {
+                color: #00de93;
+            }
+        }
+
+        .footer {
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            padding-bottom: 10px;
+
+            a.referensi {
+                color: #00de93;
+                font-weight: bold;
+            }
+        }
+    
+    }
+}
+
+@media (min-width: 480px) and (max-width: 599px) {
+    .detail_article {
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 100px auto auto;
+        // grid-gap: 20px;
+        
+        .header {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-left: 10%;
+            margin-right: 10%;
+            .deskripsi {
+                color: #00de93;
+                font-size: 24px;
+                font-weight: bold;
+            }
+    
+            .diupdate {
+                color: #807d7d;
+                font-size: smaller;
+            }
+        }
+    
+        .nuxt-content {
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 10%;
+            margin-right: 10%;
+    
+            p:nth-of-type(1) {
+                text-indent: 20px;
+            }
+    
+            h1 {
+                color: #00de93;
+                font-weight: 900;
+                font-size: 21px;
+            }
+
+            .teks-arab {
+                font-family: cursive;
+                font-size: 25px;
+            }
+
+            .teks-latin {
+                font-size: medium;
+                font-style: italic;
+            }
+
+            ol {
+                list-style: unset;
+            }
+    
+            strong {
+                color: #00de93;
+            }
+        }
+
+        .footer {
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            padding-bottom: 10px;
+
+            a.referensi {
+                color: #00de93;
+                font-weight: bold;
+            }
+        }
+    
+    }
+}
+
+@media (min-width: 321px) and (max-width: 479px) {
+    .detail_article {
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 100px auto auto;
+        // grid-gap: 20px;
+        
+        .header {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-left: 10px;
+            margin-right: 10px;
+            .deskripsi {
+                color: #00de93;
+                font-size: 20px;
+                font-weight: bold;
+            }
+    
+            .diupdate {
+                color: #807d7d;
+                font-size: smaller;
+            }
+        }
+    
+        .nuxt-content {
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+    
+            p:nth-of-type(1) {
+                text-indent: 20px;
+            }
+    
+            h1 {
+                color: #00de93;
+                font-weight: 900;
+                font-size: 18px;
+            }
+
+            .teks-arab {
+                font-family: cursive;
+                font-size: 18px;
+            }
+
+            .teks-latin {
+                font-size: 14px;
+                font-style: italic;
+            }
+
+            ol {
+                list-style: unset;
+                margin-left: 20px;
+            }
+    
+            strong {
+                color: #00de93;
+            }
+        }
+
+        .footer {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            padding-bottom: 10px;
+
+            a.referensi {
+                color: #00de93;
+                font-weight: bold;
+                font-size: 14px;
+            }
+        }
+    
+    }
+}
+
+@media (max-width: 320px) {
+    .detail_article {
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 100px auto auto;
+        // grid-gap: 20px;
+        
+        .header {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-left: 10px;
+            margin-right: 10px;
+            .deskripsi {
+                color: #00de93;
+                font-size: 20px;
+                font-weight: bold;
+            }
+    
+            .diupdate {
+                color: #807d7d;
+                font-size: smaller;
+            }
+        }
+    
+        .nuxt-content {
+            text-align: justify;
+            margin-top: 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+    
+            p:nth-of-type(1) {
+                text-indent: 20px;
+            }
+    
+            h1 {
+                color: #00de93;
+                font-weight: 900;
+                font-size: 18px;
+            }
+
+            .teks-arab {
+                font-family: cursive;
+                font-size: 18px;
+            }
+
+            .teks-latin {
+                font-size: 14px;
+                font-style: italic;
+            }
+
+            ol {
+                list-style: unset;
+                margin-left: 20px;
+            }
+    
+            strong {
+                color: #00de93;
+            }
+        }
+
+        .footer {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            padding-bottom: 10px;
+
+            a.referensi {
+                color: #00de93;
+                font-weight: bold;
+                font-size: 14px;
+            }
+        }
+    
+    }
+}
