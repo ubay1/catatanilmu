@@ -3,8 +3,7 @@
     <ul>
       <!-- <li v-for="color of colors" :key="color"> -->
       <component
-        :is="`icon-${color}`"
-        v-if="color === 'light' ? 'light' : 'dark'"
+        :is="`icon-${color === 'light' ? 'light' : 'dark'}`"
         :class="getClasses(color)"
         @click="$colorMode.preference = color"
       />

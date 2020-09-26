@@ -8,7 +8,7 @@
           v-for="post in posts"
           :key="post.path"
           :post="post"
-          :class="{dark: isTheme === 'light' ? false : true}"
+          :class="{dark}"
         />
       </div>
     </div>
@@ -39,12 +39,14 @@ export default {
   },
   data () {
     return {
+      dark: false,
       isTheme: ''
     }
   },
   created () {
     this.$nuxt.$on('theme', (data) => {
       this.isTheme = data
+      this.isTheme === 'dark' ? this.dark = true : this.dark = false
     })
   }
 }
