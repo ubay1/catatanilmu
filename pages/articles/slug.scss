@@ -40,7 +40,13 @@
                 font-size: 21px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 25px;
             }
@@ -119,7 +125,13 @@
                 font-size: 21px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 25px;
             }
@@ -198,7 +210,13 @@
                 font-size: 21px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 25px;
             }
@@ -277,7 +295,13 @@
                 font-size: 21px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 25px;
             }
@@ -356,7 +380,13 @@
                 font-size: 18px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 18px;
             }
@@ -437,7 +467,13 @@
                 font-size: 18px;
             }
 
+            a {
+                border-bottom: 1px solid #4ca495;
+                color: #4ca495;
+                text-decoration: underline;
+            }
             .teks-arab {
+                text-align: right;
                 font-family: cursive;
                 font-size: 18px;
             }
@@ -475,3 +511,25 @@
     
     }
 }
+
+// div.dark {
+//     .header {
+//         .deskripsi {
+//             color: #4ca495;
+//         }
+//     }
+//     .nuxt-content {
+//         h1 {
+//             color: #4ca495;
+//         }
+//         strong {
+//             color: #4ca495;
+//         }
+//     }
+//     .footer {
+//         a.referensi {
+//             color: #4ca495;
+//         }
+//     }
+    
+// }

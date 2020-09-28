@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 export default {
   async asyncData ({ $content, params, error }) {
     try {

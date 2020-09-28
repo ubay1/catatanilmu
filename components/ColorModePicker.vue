@@ -26,7 +26,7 @@ export default {
   },
   data () {
     return {
-      color: 'light'
+      color: ''
     }
   },
   methods: {
@@ -36,7 +36,6 @@ export default {
         return {}
       }
       this.$nuxt.$emit('theme', this.$colorMode.value)
-      // eslint-disable-next-line no-console
       this.color = this.$colorMode.preference === 'light' ? 'dark' : 'light'
       return {
         preferred: color === this.$colorMode.preference === 'light' ? 'dark' : 'light',
