@@ -1,7 +1,7 @@
 <template>
   <div>
     <slot name="ArticleShalat">
-      <div class="headerArticle">
+      <div class="text-center font-bold text-lg uppercase">
         Sifat Shalat Nabi dari Takbir sampai salam
       </div>
     </slot>
@@ -9,4 +9,3 @@
 </template>
 
 <script src="./js/ArticleShalat.js"></script>
-<style lang="scss" src="./scss/article.scss"></style>
