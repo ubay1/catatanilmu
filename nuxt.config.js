@@ -65,7 +65,8 @@ export default {
     {
       src: './plugins/vue_swal.js',
       ssr: false
-    }
+    },
+    '~/plugins/repository.js'
   ],
   /*
   ** Auto import components
@@ -135,5 +136,26 @@ export default {
         })
       }
     }
+  },
+  manifest: {
+    name: 'Catatan ilmu',
+    short_name: 'catatan ilmu',
+    lang: 'en',
+    display: 'standalone',
+    theme_color: '#5785f0',
+    icons: [
+      {
+        src: '/asset/appicon/android-icon-144x144.png',
+        sizes: '144x144',
+        type: 'image/png',
+        density: '3.0'
+      },
+      {
+        src: '/asset/appicon/android-icon-192x192.png',
+        sizes: '192x192',
+        type: 'image/png',
+        density: '4.0'
+      }
+    ]
   }
 }

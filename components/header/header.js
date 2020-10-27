@@ -1,17 +1,19 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-console */
+// import Search from '@/components/Search'
 export default {
+  components: {
+    // Search
+  },
   data () {
     return {
-      isTheme: '',
-      dark: false
+      isTheme: ''
     }
   },
   created () {
-    this.$nuxt.$on('theme', (data) => {
-      this.isTheme = data
-      this.isTheme === 'dark' ? this.dark = true : this.dark = false
-    })
+    // this.$nuxt.$on('theme', (data) => {
+    //   this.isTheme = data
+    // })
   },
   methods: {
   }

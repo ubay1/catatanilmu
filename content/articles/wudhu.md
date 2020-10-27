@@ -1,7 +1,9 @@
 ---
 title: wudhu
 description: Belajar wudhu sesuai sunnah
-tags: ibadah
+tags: [ibadah]
+image: https://storage.nu.or.id/storage/post/16_9/mid/15236113515ad076d745e28.jpg
+published: 2020-10-01 08:00
 referensi: [https://muslim.or.id/1810-panduan-praktis-tata-cara-wudhu.html, https://rumaysho.com/952-meluruskan-tata-cara-wudhu-sesuai-petunjuk-nabi.html]
 ---
 

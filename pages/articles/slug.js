@@ -17,19 +17,21 @@ export default {
     }
   },
   created () {
-    this.$nuxt.$on('theme', (data) => {
-      this.isTheme = data
-    })
+  },
+  mounted () {
   },
   methods: {
     formatDate (date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
       return new Date(date).toLocaleDateString('en', options)
+    },
+    capitalise (text) {
+      return text.charAt(0).toUpperCase() + text.slice(1)
     }
   },
   head () {
     return {
-      title: `${this.article.title} - CATATAN ILMU`,
+      title: `${this.capitalise(this.article.title)} - Catatan Ilmu`,
       meta: [
         {
           hid: 'description',

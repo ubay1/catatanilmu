@@ -18,26 +18,27 @@
     </div>
   </div>
 </template>
+
 <script>
 import Header from '@/components/header/header.vue'
-// import ColorModePicker from '@/components/ColorModePicker'
-// eslint-disable-next-line no-unused-vars
 import getContent from '@/utils/getContent'
-import PostCard from '~/components/PostCard'
+import PostCard from '@/components/PostCard'
+
 export default {
   components: {
     Header,
     PostCard
-    // ColorModePicker
   },
-  async asyncData ({ params, error, $content }) {
+  async asyncData ({ $content, app, params, error }) {
     try {
       const content = await getContent($content, params, error)
+      // eslint-disable-next-line no-console
+      // console.log(content)
       return {
         allArticles: content.allArticles,
         paginatedArticles: content.paginatedArticles
       }
-    } catch (err) {
+    } catch (error) {
       error({
         statusCode: 404,
         message: 'Page could not be found'
@@ -46,27 +47,22 @@ export default {
   },
   data () {
     return {
-      dark: false,
-      isTheme: '',
-      routeName: '',
-      searchValue: ''
+      routeName: ''
     }
   },
   created () {
-    this.$nuxt.$on('searchArticle', (data) => {
-      this.searchValue = data
-    })
-
     this.routeName = this.$route.name
+    // eslint-disable-next-line no-console
+    // console.log(this.routeName)
   },
   mounted () {
+    // eslint-disable-next-line no-console
+    // console.log(this.$route)
   },
   head () {
     return {
-      title: 'Page 1 - Catatan Ilmu'
+      title: `Page ${this.$route.params.page} - Catatan Ilmu`
     }
   }
 }
 </script>
-
-<style lang="scss" src="./home.scss"></style>

@@ -1,7 +1,10 @@
 ---
 title: shalat
 description: Sifat shalat nabi dari takbir sampai salam 
-tags: ibadah
+tags: [ibadah]
+image: https://tonghanter.harianterbit.com/gbr_artikel/sholat_sujud_14.jpg
+published: 2020-10-01 08:00,
+referensi: [https://muslim.or.id/1810-panduan-praktis-tata-cara-wudhu.html, https://rumaysho.com/952-meluruskan-tata-cara-wudhu-sesuai-petunjuk-nabi.html]
 ---
 
 

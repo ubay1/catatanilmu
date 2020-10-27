@@ -12,14 +12,20 @@
         margin: auto;
         align-items: center;
         border-radius: 100%;
-        padding: 30px;
+        padding: 0px;
+        margin: 20px;
         // background: #d5f5ea;
-        height: 150px;
-        width: 150px;
+        height: 100%;
+        width: 100%;
+
+        p {
+            font-size: 30px;
+            font-weight: bold;
+        }
 
         img {
-            height: 100px;
-            width: 150px;
+            // height: 100px;
+            width: 100%;
             pointer-events: none;
         }
     
@@ -55,6 +61,6 @@
     }
 
     .dark {
-        color: #4ca495 !important;
+        color: #007acc !important;
     }
 }

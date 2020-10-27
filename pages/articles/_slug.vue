@@ -1,8 +1,8 @@
 <template>
-  <div :id="isTheme" class="detail_article">
+  <div class="detail_article" :class="{dark: isTheme === 'light' ? false : true}">
     <div class="header">
       <div class="deskripsi">
-        {{ article.description }}
+        {{ article.title }}
       </div>
       <div class="diupdate">
         {{ $moment(article.createdAt).format('LLLL') }}
@@ -12,7 +12,7 @@
     <nuxt-content :document="article" />
 
     <div class="footer">
-      Referensi:
+      <!-- Referensi: -->
       <p
         v-for="(article, index) in article.referensi"
         :key="`article-${index}`"

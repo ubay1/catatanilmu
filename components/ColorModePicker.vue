@@ -90,9 +90,9 @@ svg.feather.feather-moon {
   box-shadow: -2px 2px 0px #091a28;
 }
 
-svg.feather.feather-sun {
-  border-color: #4ca495 !important;
-  color: #4ca495 !important;
-  box-shadow: 2px 2px 0px #4ca495;
+svg.feather.feather-coffee {
+  border-color: #007acc !important;
+  color: #007acc !important;
+  box-shadow: 2px 2px 0px #007acc;
 }
 </style>
