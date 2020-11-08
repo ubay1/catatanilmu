@@ -1,11 +1,11 @@
 <template>
-  <div class="detail_article" :class="{dark: isTheme === 'light' ? false : true}">
+  <div class="detail_article">
     <div class="header">
       <div class="deskripsi">
         {{ article.title }}
       </div>
       <div class="diupdate">
-        {{ $moment(article.createdAt).format('LLLL') }}
+        {{ article.published }}
       </div>
     </div>
 
