@@ -11,6 +11,7 @@ export default {
   async asyncData ({ $content, params }) {
     const articles = await $content('articles')
       .where({ tags: { $contains: params.slug } })
+      .sortBy('published', 'desc')
       .fetch()
 
     const articlesByTag = articles.filter((article) => {

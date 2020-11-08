@@ -1,9 +1,9 @@
 ---
 title: wudhu
 description: Belajar wudhu sesuai sunnah
-tags: [ibadah]
+tags: [ibadah, shalat]
 image: https://storage.nu.or.id/storage/post/16_9/mid/15236113515ad076d745e28.jpg
-published: 2020-10-01 08:00
+published: 2020-10-01 07:00
 referensi: [https://muslim.or.id/1810-panduan-praktis-tata-cara-wudhu.html, https://rumaysho.com/952-meluruskan-tata-cara-wudhu-sesuai-petunjuk-nabi.html]
 ---
 
@@ -28,33 +28,35 @@ Humran pembantu Utsman menceritakan bahwa Utsman bin Affan radhiallahu ‘anhu p
 
 Dari hadits ini dan hadits lainnya, kita dapat meringkas tata cara wudhu Nabi shallallahu ‘alaihi wa sallam sebagai berikut. <br><br>
 
-1. Berniat (dalam hati) untuk menghilangkan hadats.
-2. Membaca basmalah: ‘bismillah’.
-3. Membasuh kedua telapak tangan sebanyak tiga kali.
-4. Mengambil air dengan tangan kanan, lalu dimasukkan dalam mulut (berkumur-kumur atau madmadho) dan dimasukkan dalam hidung (istinsyaq) sekaligus (melalui satu cidukan). Kemudian air tersebut dikeluarkan (istintsar) dengan tangan kiri. Hal ini dilakukan sebanyak tiga kali.
-5. Membasuh seluruh wajah sebanyak tiga kali dan menyela-nyela jenggot.
-6. Membasuh tangan (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) hingga siku dan sambil menyela-nyela jari-jemari.
-7. Membasuh kepala 1 kali dan termasuk di dalamnya membasuh telinga. **Rasulullah shallallahu ‘alaihi wa sallam bersabda**, “Kedua telinga termasuk bagian dari kepala” (HR Ibnu Majah, disahihkan oleh Al Albani). Tatacara membasuh kepala ini adalah sebagai berikut, kedua telapak tangan dibasahi dengan air. Kemudian kepala bagian depan dibasahi lalu menarik tangan hingga kepala bagian belakang, kemudian menarik tangan kembali hingga kepala bagian depan. Setelah itu langsung dilanjutkan dengan memasukkan jari telunjuk ke lubang telinga, sedangkan ibu jari (jempol) menggosok telinga bagian luar.
-8. Membasuh kaki (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) sambil membersihkan sela-sela jemari kaki.
+- Berniat (dalam hati) untuk menghilangkan hadats.
+- Membaca basmalah: ‘bismillah’.
+- Membasuh kedua telapak tangan sebanyak tiga kali.
+- Mengambil air dengan tangan kanan, lalu dimasukkan dalam mulut (berkumur-kumur atau madmadho) dan dimasukkan dalam hidung (istinsyaq) sekaligus (melalui satu cidukan). Kemudian air tersebut dikeluarkan (istintsar) dengan tangan kiri. Hal ini dilakukan sebanyak tiga kali.
+- Membasuh seluruh wajah sebanyak tiga kali dan menyela-nyela jenggot.
+- Membasuh tangan (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) hingga siku dan sambil menyela-nyela jari-jemari.
+- Membasuh kepala 1 kali dan termasuk di dalamnya membasuh telinga. **Rasulullah shallallahu ‘alaihi wa sallam bersabda**, “Kedua telinga termasuk bagian dari kepala” (HR Ibnu Majah, disahihkan oleh Al Albani). Tatacara membasuh kepala ini adalah sebagai berikut, kedua telapak tangan dibasahi dengan air. Kemudian kepala bagian depan dibasahi lalu menarik tangan hingga kepala bagian belakang, kemudian menarik tangan kembali hingga kepala bagian depan. Setelah itu langsung dilanjutkan dengan memasukkan jari telunjuk ke lubang telinga, sedangkan ibu jari (jempol) menggosok telinga bagian luar.
+- Membasuh kaki (kanan dahulu sebanyak 3x kemudian kiri sebanyak 3x) sambil membersihkan sela-sela jemari kaki.
 <br><br>
 
 # Syarat-Syarat Wudhu 
 
 Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan syarat wudhu ada tujuh, yaitu
 
-1. Islam,
-2. Berakal,
-3. Tamyiz = Tolak ukur tamyiz adalah sebagaimana yang dikatakan **Nabi shallallahu ‘alaihi was sallam** adalah berumur 7 tahun dalam hadits yang diriwayatkan oleh Abu Dawud no. 495 dan dinyatakan hasan shohih oleh Al Albani rohimahullah dalam takhrij beliau untuk Sunan Abu Dawud,
-4. Berniat, (letak niat ini ketika hendak akan melakukan ibadah tersebut.)
-5. Air yang digunakan adalah air yang bersih dan bukan air yang diperoleh dengan cara yang haram,
-6. Telah beristinja (Membersihkan sesuatu yang keluar dari dua jalur kemaluan dengan air)
+- Islam,
+- Berakal,
+- Tamyiz = Tolak ukur tamyiz adalah sebagaimana yang dikatakan **Nabi shallallahu ‘alaihi was sallam** adalah berumur 7 tahun dalam hadits yang diriwayatkan oleh Abu Dawud no. 495 dan dinyatakan hasan shohih oleh Al Albani rohimahullah dalam takhrij beliau untuk Sunan Abu Dawud,
+- Berniat, (letak niat ini ketika hendak akan melakukan ibadah tersebut.)
+- Air yang digunakan adalah air yang bersih dan bukan air yang diperoleh dengan cara yang haram,
+- Telah beristinja (Membersihkan sesuatu yang keluar dari dua jalur kemaluan dengan air)
  & istijmar (Membersihkan sesuatu yang keluar dari dua jalur kemaluan dengan tiga buah batu atau dengan selainnya) lebih dulu (jika sebelumnya memiliki keharusan untuk istinja’ dan istijmar dari hadats),
-7. Tidak adanya sesuatu hal yang mencegah air sampai ke kulit.
+- Tidak adanya sesuatu hal yang mencegah air sampai ke kulit.
 <br><br>
 
 # Sunnah sunnah didalam wudhu
 
-1. Bersiwak, sebagaimana sabda **Nabi kita shallallahu ‘alaihi was sallam**,
+1. Bersiwak
+
+sebagaimana sabda **Nabi kita shallallahu ‘alaihi was sallam**,
 <br><br>
 
 <div class="teks-arab">
@@ -74,7 +76,9 @@ Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan sy
 "Bersungguh-sungguhlah dalam beristinsyaq kecuali jika kalian sedang berpuasa" (HR. Abu Dawud no. 2368, Al Hakim no. 525)
 </div> <br>
 
-3. Mendahulukan membasuh anggota wudhu yang kanan. Dalilnya adalah sabda Nabi shollallahu ‘alaihi was sallam,
+3. Mendahulukan membasuh anggota wudhu yang kanan. 
+
+Dalilnya adalah sabda **Nabi shollallahu ‘alaihi was sallam,**
 <br><br>
 
 <div class="teks-arab">
@@ -84,7 +88,9 @@ Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan sy
 "Adalah kebiasaan Nabi shollallahu ‘alaihi was sallam sangat menyukai mendahulukan kanan dalam thoharoh (berwudhu)" (HR. Bukhori 168, Muslim no. 268.)
 </div> <br>
 
-4. Membasuh anggota wudhu sebanyak 2 kali atau 3 kali. Dalil bahwa Nabi shallallahu ‘alaihi was sallam membasuh anggota wudhunya 2 kali adalah hadits yang diriwayatkan dari sahabat Abdullah bin Zaid, <br><br>
+4. Membasuh anggota wudhu sebanyak 2 kali atau 3 kali. 
+
+Dalil bahwa **Nabi shallallahu ‘alaihi was sallam** membasuh anggota wudhunya 2 kali adalah hadits yang diriwayatkan dari sahabat Abdullah bin Zaid, <br><br>
 
 <div class="teks-arab">
  أَنَّ النَّبِىَّ – صلى الله عليه وسلم – تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ
@@ -93,7 +99,9 @@ Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan sy
 "Sesungguhnya Nabi shallallahu ‘alaihi was sallam berwudhu (membasuh anggota wudhunya sebanyakpent.) dua kali-dua kali" (HR. Bukhori 158.)
 </div> <br>
 
-5. Tertib, yang dimaksud tertib di sini adalah membasuh anggota wudhu sesuai tempatnya (urutan yang ada dalam ayat wudhu. Hal ini kami cantumkan di sini sebagai sebuah sunnah bukan wajib dalam wudhu dengan alasan hadits Al Miqdam bin Ma’dikarib Al Kindiy rodhiyallahu ‘anhu, <br><br>
+5. Tertib, yang dimaksud tertib di sini adalah membasuh anggota wudhu sesuai tempatnya (urutan yang ada dalam ayat wudhu)
+
+Hal ini kami cantumkan di sini sebagai sebuah sunnah bukan wajib dalam wudhu dengan alasan hadits Al Miqdam bin Ma’dikarib Al Kindiy rodhiyallahu ‘anhu, <br><br>
 
 <div class="teks-arab">
  أُتِىَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- بِوَضُوءٍ فَتَوَضَّأَ فَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ تَمَضْمَضَ وَاسْتَنْشَقَ ثَلاَثًا وَغَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ ذِرَاعَيْهِ ثَلاَثًا ثَلاَثًا ثُمَّ مَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ ظَاهِرِهِمَا وَبَاطِنِهِمَا
@@ -102,7 +110,9 @@ Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan sy
 "Rosulullah shallallahu ‘alaihi was sallam melakukan wudhu dengan membasuh tangannya tiga kali kemudian berkumur-kumur dan istinsyaq tiga kali, kemudian membasuh wajahnya tiga kali, kemudian membasuh kakinya tiga kali, kemudian menyapu kepalanya dan telinga bagian luar maupun dalam" (HR. Abu Dawud no. 121)
 </div> <br>
 
-6. Berdo’a ketika telah selesai berwudhu. Hal ini berdasarkan sabda **Nabi shallallahu ‘alaihi was sallam**,
+6. Berdo’a ketika telah selesai berwudhu.
+
+Hal ini berdasarkan sabda **Nabi shallallahu ‘alaihi was sallam**,
 <br><br>
 
 <div class="teks-arab">
@@ -110,7 +120,7 @@ Syaikh Dr. Sholeh bin Fauzan bin Abdullah Al Fauzan hafidzahullah menyebutkan sy
 </div>
 <div class="teks-latin">
 "Tidaklah salah seorang dari kalian berwudhu dan ia menyempurnakan wudhunya kemudian membaca, “Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan Nabi Muhammad adalah utusan Allah” melainkan akan dibukakan baginya pintu-pintu surga yang jumlahnya delapan, dan dia bisa masuk dari pintu mana saja ia mau" (HR. Muslim no. 234.)
-</div> <br><br>
+</div> <br>
 
 At Tirmidzi menambahkan lafafdz <br><br>
 <div class="teks-arab">
@@ -120,7 +130,9 @@ At Tirmidzi menambahkan lafafdz <br><br>
 "Ya Allah jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termsuk orang-orang yang selalu mensucikan diri" (HR. Tirmidzi no. 55)
 </div> <br>
 
-7. Sholat dua raka’at setelah wudhu. Hal ini berdasarkan hadits **Nabi shollallahu ‘alaihi was sallam**,
+7. Sholat dua raka’at setelah wudhu.
+
+Hal ini berdasarkan hadits **Nabi shollallahu ‘alaihi was sallam**,
 <br><br>
 
 <div class="teks-arab">
