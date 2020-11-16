@@ -2,7 +2,7 @@
   <div class="header">
     <div class="logo">
       <nuxt-link to="/">
-        <img src="../../static/header.png" alt="Catatan Koding">
+        <img src="../../static/header.jpg" alt="Catatan Koding">
       </nuxt-link>
     </div>
   </div>

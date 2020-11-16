@@ -12,25 +12,26 @@ export default async ($content, params, error) => {
   const lastPage = Math.ceil(totalArticles / perPage)
 
   // use the % (modulus) operator to get a whole remainder
+  // eslint-disable-next-line no-unused-vars
   const lastPageCount = totalArticles % perPage // misal: 11 % 2 = 1
 
-  console.log('page sejarang = ' + currentPage) // 1
-  console.log('page terakhir = ' + lastPage) // 2
+  // console.log('page sejarang = ' + currentPage) // 1
+  // console.log('page terakhir = ' + lastPage) // 2
 
   const skipNumber = () => {
     if (currentPage === 1) {
-      console.log('skip = 0 karna di page1')
+      // console.log('skip = 0 karna di page1')
       return 0
     } else if (currentPage === lastPage) {
       if (totalArticles === 10) {
-        console.log(`skip = ${totalArticles - 5}, karna semua data berjumlah genap`)
+        // console.log(`skip = ${totalArticles - 5}, karna semua data berjumlah genap`)
         return totalArticles - 5
       } else {
-        console.log(`skip = ${totalArticles - lastPageCount}, karna semua data berjumlah ganjil`)
+        // console.log(`skip = ${totalArticles - lastPageCount}, karna semua data berjumlah ganjil`)
         return totalArticles - 5
       }
     } else {
-      console.log(`skip = ${(currentPage - 1) * perPage}, karna semua data berjumlah ganjil`)
+      // console.log(`skip = ${(currentPage - 1) * perPage}, karna semua data berjumlah ganjil`)
       return (currentPage - 1) * perPage
     }
   }
